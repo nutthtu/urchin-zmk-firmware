@@ -18,7 +18,6 @@
 #include <dt-bindings/zmk/outputs.h>// Copyright (c) 2022 The ZMK Contributors
 
 / {
-    chosen { zmk,charmap = &charmap_us; };
 
     behaviors {
         hml: home_row_mod_left {
